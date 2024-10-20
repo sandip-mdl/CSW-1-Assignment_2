@@ -1,0 +1,20 @@
+/* External Stylesheet: styles.css */
+
+/* Styling for the body */
+body {
+    background-color: lightgreen;
+}
+
+/* Styling for h5 */
+h5 {
+    color: darkred;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Styling for paragraphs using the class "text-style" */
+.text-style {
+    color: darkblue;
+    font-size: 18px;
+    line-height: 1.5;
+}
